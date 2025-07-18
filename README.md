@@ -19,8 +19,7 @@ Web/ # ASP.NET Core MVC or Razor Pages frontend.
 - **ASP.NET Core Web API**
 - **Entity Framework Core (8.0.11)**
 - **SQL Server**
-- **Razor Pages / MVC (optional)**
-- **xUnit / NUnit / MSTest** for testing
+- **MVC**
 - **Dependency Injection**
 - **Layered Architecture**
 
