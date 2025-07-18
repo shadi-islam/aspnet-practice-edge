@@ -48,17 +48,33 @@ The main `DbContext` used across the system.
 - `Payment`
 - `ClientCar`
 
-#### Setup (Command Promt)
-1. Clone the repository
+
+### Setup (Command Prompt)
+
+1. **Clone the repository**
+    ```bash
     git clone https://github.com/shadi-islam/aspnet-practice-edge
     cd aspnet-practice-edge
-2. Restore NuGet packages
-   dotnet restore
-3. Apply EF Core migrations
-   Navigate to the Database/ folder: dotnet ef database update
-4. Run the API
-   cd Api
-   dotnet run
+    ```
+
+2. **Restore NuGet packages**
+    ```bash
+    dotnet restore
+    ```
+
+3. **Apply EF Core migrations**
+    ```bash
+    cd Database
+    dotnet ef database update
+    ```
+
+4. **Run the API**
+    ```bash
+    cd ../Api
+    dotnet run
+    ```
+
+
 
 
 
