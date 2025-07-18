@@ -22,7 +22,7 @@ Web/ # ASP.NET Core MVC or Razor Pages frontend.
 - **Razor Pages / MVC (optional)**
 - **xUnit / NUnit / MSTest** for testing
 - **Dependency Injection**
-- **Clean/Layered Architecture**
+- **Layered Architecture**
 
 ---
 
